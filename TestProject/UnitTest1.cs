@@ -10,5 +10,11 @@ namespace TestProject
         {
             Assert.IsTrue(true);
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Assert.IsTrue(true);
+        }
     }
 }
